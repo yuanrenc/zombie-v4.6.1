@@ -33,7 +33,7 @@ npm install
 Run test
 
 ```
-Npm run test
+npm run test
 ```
 
 ### Highlights
