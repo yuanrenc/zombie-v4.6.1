@@ -1,4 +1,4 @@
-# Zombie Apocalypse v4.6.1- Ailo
+# Zombie Apocalypse v4.6.1
 
 ### Author
 
